@@ -38,3 +38,14 @@ body {
     background: #4aaaa5 !important;
     border: none;
 }
+
+section {
+    height: minheight(80vh);
+}
+
+footer {
+    margin-top: 20px;
+    background: #333;
+    color: #fff;
+    border-top: #4aaaa5 3px solid;
+}
