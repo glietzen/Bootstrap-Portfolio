@@ -4,5 +4,32 @@
 }
 
 body {
-    background: url(resouces/img/dust_scratches);
+    background-image: url(resources/img/dust_scratches.png);
+}
+
+.main-content-h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 0.5em;
+    border-bottom: 1px #333 solid;
+    color: #4aaaa5;
+    font-weight: 700;
+}
+
+.main-content-text {
+    color: #333;
+}
+
+.connect-header {
+    text-align: center;
+}
+
+.contact-icon {
+    list-style: none;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.contact-icon img {
+   width: 50px;
+   text-align: center;
 }
